@@ -1,1 +1,2 @@
 # Course-Registration-Project-Java
+This course registration project was made in Java utilizing JPanel to help make the porject visualized, it has multiple different folders within the src folder that is used to build the program. It seperates the course registration project between four main folders and the start program source file. It seperates them into a controller folder, a model folder, a test folder, and a view folder these are all used to simulate a real student going through as if they are attempting register for a course within a college from the very beginning.
